@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "ayatul kursi"
+        version   = "1.1.0">
+
+    <name>আয়াতুল কুরসী</name>
+
+    <description>
+        আয়াতুল কুরসী  .   আয়াতুল কুরসী .   আয়াতুল কুরসী .
+    </description>
+
+    <author href="http://www.saddamhossainrana.wordpress.com" email="saddamhossain953@gmail.com">
+        Md. Saddam Hossain
+    </author>
+
+    <preference name="permissions" value="none"/>
+
+
+    <icon src="res/icon/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="res/icon/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
+    <icon src="res/icon/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
+    <icon src="res/icon/android/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <icon src="res/icon/android/drawable-xxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxhdpi" />
+	 <icon src="res/icon/android/drawable-xxxhdpi/ic_launcher.png" gap:platform="android" gap:qualifier="xxxhdpi" />
+
+</widget>
